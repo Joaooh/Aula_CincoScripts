@@ -1,4 +1,4 @@
-🇵🇹 / 🇧🇷 Cálculos Computacionais - 12 de março de 2025
+🇵🇹 ∕ 🇧🇷 Cálculos Computacionais - 12 de março de 2025
 
 Este repositório contém cinco atividades avaliativas desenvolvidas para a aula do dia 12 de março de 2025. Cada atividade realiza um cálculo específico com base nos dados fornecidos pelo usuário:
 
@@ -8,7 +8,7 @@ Este repositório contém cinco atividades avaliativas desenvolvidas para a aula
 - **A4:** Ordena dois valores informados pelo usuário em ordem crescente.
 - **A5:** Estima o peso ideal do usuário com base em sua altura e sexo.
 
-🇬🇧 / 🇺🇸 Computational Calculations - March 12, 2025
+🇬🇧 ∕ 🇺🇸 Computational Calculations - March 12, 2025
 
 This repository contains five assessment activities developed for the March 12, 2025 class. Each activity performs a specific calculation based on user-provided data:
 
